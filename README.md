@@ -9,7 +9,7 @@ Akuell arbeite ich parallel zum Studium bei [**InQu Solutions GmbH**](inqu.com) 
 *   **Frameworks:** .NET, Avalonia
 *   **Fokus / Interesse:** Desktop-Anwendungsentwicklung, UI & UX Design
 
-#### ➤ Aktueller Status
+#### 🚀 Aktueller Status
 *   Softwareentwicklung mit **C# - .Net und Avalonia**.
 *   Weiterentwicklung meiner Skills in den Bereichen Softwareentwicklung, Frontend-Design und Nutzerführung.
 
