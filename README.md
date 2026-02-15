@@ -2,7 +2,7 @@
 
 Ich bin **Dualer Student** im Bereich Informationstechnik an der **Dualen Hochschule Sachsen (DHSN)** in Dresden.
 
-Akuell arbeite ich parallel zum Studium bei [**InQu Solutions GmbH**](https://www.inqu.com/de) in der Softwareentwicklung.
+Aktuell arbeite ich parallel zum Studium bei [**InQu Solutions GmbH**](https://www.inqu.com/de) in der Softwareentwicklung.
 
 #### ⚙ Technische Kenntnisse
 *   **Sprachen:** C#, Python
