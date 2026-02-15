@@ -15,7 +15,7 @@ Akuell arbeite ich parallel zum Studium bei [**InQu Solutions GmbH**](inqu.com) 
 
 #### ♟ Persönliche Interessen
 Ansonsten verbringe ich meine Zeit auch mit:
-*   ✈️ **Segelfliegen**
+*   ✈ **Segelfliegen**
 *   🎮 **Gaming**
 *   🚴 **Radfahren**
 *   ⛷️ **Skifahren**
